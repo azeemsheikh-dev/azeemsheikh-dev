@@ -40,7 +40,9 @@ Version Control: Git & GitHub
 📫 Connect With Me
 
 Email: azeem.sheikh.dev@gmail.com
+
 LinkedIn: www.linkedin.com/in/azeem-sheikh-dev
+
 GitHub: https://github.com/azeemsheikh-dev
 
 Thanks for visiting my profile! Please feel free to explore my repositories and reach out to me. Let's build something amazing together! 🚀
