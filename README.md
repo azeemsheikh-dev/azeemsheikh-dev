@@ -38,3 +38,9 @@ Version Control: Git & GitHub
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 📫 Connect With Me
+
+Email: azeem.sheikh.dev@gmail.com
+LinkedIn: www.linkedin.com/in/azeem-sheikh-dev
+GitHub: https://github.com/azeemsheikh-dev
+
+Thanks for visiting my profile! Please feel free to explore my repositories and reach out to me. Let's build something amazing together! 🚀
