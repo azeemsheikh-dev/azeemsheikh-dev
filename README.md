@@ -2,7 +2,7 @@
 
 This Is My Profile.
 
-Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies, especially in the fields of Generative AI, Web 3.0, and the Metaverse. Currently, I'm on a journey to master Full-Stack Web and App Development, including TypeScript/Javascript, HTML, CSS, Next.js, Tailwind CSS, and Figma.
+Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies, especially in the fields of Generative AI, Web 3.0, and the Metaverse. Currently, I'm on a journey to master Full-Stack Web and App Development, including TypeScript/JavaScript, HTML, CSS, Next.js, Tailwind CSS, and Figma.
 
 🚀 About Me
 
